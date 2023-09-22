@@ -1,0 +1,5 @@
+# fair_compiler options
+
+# if uglify is false, the js file will not be uglified, it can use in debug mode.
+# release mode should set uglify = true
+uglify: false
